@@ -13,6 +13,7 @@ Passionate about learning, improving, and creating systems that solve real probl
 - 🤔 Interested in problem-solving, optimization, and intelligent systems  
 - 💬 Feel free to ask me about programming, logic, and project development  
 - 📫 How to reach me: GitHub messages
+-  or you can send a message to my discord account : @.h0x._
 
 ---
 
