@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**HusseinZahran-1/HusseinZahran-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DARK
 
-Here are some ideas to get you started:
+I build focused, reliable, and thoughtfully designed software solutions.  
+Passionate about learning, improving, and creating systems that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 Currently working on improving my technical depth through hands-on projects  
+- 🌱 Continuously learning and exploring modern technologies  
+- 👯 Open to collaboration on meaningful and well-structured projects  
+- 🤔 Interested in problem-solving, optimization, and intelligent systems  
+- 💬 Feel free to ask me about programming, logic, and project development  
+- 📫 How to reach me: GitHub messages
+
+---
+
+### Philosophy
+- Build with purpose  
+- Keep things simple and efficient  
+- Learn by doing  
+- Improve every day
+
