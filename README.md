@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Hussein+Zahran;Software+Engineer+%F0%9F%9A%80;Builder+%7C+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Hussein+Zahran;AI+Student+%F0%9F%A4%96;Builder+%7C+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -20,14 +20,16 @@
 
 ```yaml
 name: Hussein Zahran
-focus: Building reliable & well-structured software
+field: Artificial Intelligence
+status: Student & Lifelong Learner
 currently: Deepening technical skills through hands-on projects
-learning: Modern technologies & best practices
+learning: AI, Machine Learning & Modern Technologies
 open_to: Meaningful collaborations & well-structured projects
 interests:
+  - Artificial Intelligence & Machine Learning
   - Problem Solving & Optimization
-  - Intelligent Systems
-  - Clean Architecture
+  - Intelligent Systems & Automation
+  - Clean Architecture & Efficient Code
 philosophy: "Build with purpose. Keep it simple. Improve every day."
 contact: GitHub Messages or Discord → @.h0x._
 ```
@@ -37,7 +39,7 @@ contact: GitHub Messages or Discord → @.h0x._
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,pycharm,vscode&theme=dark" />
 </p>
 
 ---
@@ -50,7 +52,7 @@ contact: GitHub Messages or Discord → @.h0x._
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinZahran-1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
 
 ---
@@ -58,11 +60,11 @@ contact: GitHub Messages or Discord → @.h0x._
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HusseinZahran-1&repo=HusseinZahran-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <a href="https://github.com/HusseinZahran-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HusseinZahran-1&repo=car_price_prediction&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HusseinZahran-1&repo=HusseinZahran-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <a href="https://github.com/HusseinZahran-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HusseinZahran-1&repo=Threat-Detection-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
 </p>
 
@@ -70,14 +72,13 @@ contact: GitHub Messages or Discord → @.h0x._
 
 ## 💡 Philosophy
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-> 🎯 **Build with purpose** — Every line of code should have a reason  
-> ⚡ **Keep things simple and efficient** — Complexity is the enemy of reliability  
-> 🔨 **Learn by doing** — Theory without practice is incomplete  
-> 📈 **Improve every day** — Progress over perfection  
+> 🎯 **Build with purpose** — Every line of code should have a reason
+>
+> ⚡ **Keep things simple and efficient** — Complexity is the enemy of reliability
+>
+> 🔨 **Learn by doing** — Theory without practice is incomplete
+>
+> 📈 **Improve every day** — Progress over perfection
 
 ---
 
@@ -89,6 +90,52 @@ contact: GitHub Messages or Discord → @.h0x._
 
 ---
 
+<!--
+  ========================================================
+  SNAKE ANIMATION SETUP — READ THEN DELETE THIS BLOCK
+  ========================================================
+  1. Inside your repo, create the path: .github/workflows/
+  2. Create a new file there called: snake.yml
+  3. Paste the content below into it and save:
+
+  name: Generate Snake Animation
+
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch:
+    push:
+      branches:
+        - main
+
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      timeout-minutes: 10
+      steps:
+        - name: Generate snake.svg
+          uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+        - name: Push snake.svg to output branch
+          uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  4. Go to Settings → Actions → General → enable Actions
+  5. Go to Actions tab → click "Generate Snake Animation" → Run workflow
+  6. Wait ~2 minutes → the snake will appear automatically!
+  7. Delete this entire comment block when done ✅
+  ========================================================
+-->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8C;Feel+free+to+reach+out+anytime+%F0%9F%92%AC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8C;Feel+free+to+reach+out+anytime+%F0%9F%92%AC" />
 </p>
