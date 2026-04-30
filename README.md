@@ -11,7 +11,7 @@
   <a href="https://discord.com/users/.h0x._">
     <img src="https://img.shields.io/badge/Discord-.h0x._-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=HusseinZahran-1&style=for-the-badge&color=0e75b6&label=Profile+Views" />
 </p>
 
 ---
@@ -45,8 +45,8 @@ contact: GitHub Messages or Discord → @.h0x._
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HusseinZahran-1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinZahran-1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
 
 <p align="center">
@@ -59,10 +59,10 @@ contact: GitHub Messages or Discord → @.h0x._
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HusseinZahran-1&repo=HusseinZahran-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HusseinZahran-1&repo=HusseinZahran-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@ contact: GitHub Messages or Discord → @.h0x._
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/HusseinZahran-1/HusseinZahran-1/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
