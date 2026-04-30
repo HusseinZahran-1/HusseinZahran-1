@@ -21,6 +21,7 @@
 ```yaml
 name: Hussein Zahran
 field: Artificial Intelligence
+university: Al-Zaytoonah University of Jordan
 status: Student & Lifelong Learner
 currently: Deepening technical skills through hands-on projects
 learning: AI, Machine Learning & Modern Technologies
@@ -32,6 +33,7 @@ interests:
   - Clean Architecture & Efficient Code
 philosophy: "Build with purpose. Keep it simple. Improve every day."
 contact: GitHub Messages or Discord → @.h0x._
+Email: husseinzahran05@gmail.com
 ```
 
 ---
