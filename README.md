@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-HusseinZahran--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HusseinZahran-1)
 [![Email](https://img.shields.io/badge/Email-husseinzahran05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husseinzahran05@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-@.h0x._-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-@.h0x.__-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
