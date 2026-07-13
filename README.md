@@ -1,143 +1,190 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Hussein+Zahran;AI+Student+%F0%9F%A4%96;Builder+%7C+Learner+%7C+Problem+Solver" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <em>I build focused, reliable, and thoughtfully designed software solutions.<br>
-  Passionate about learning, improving, and creating systems that solve real problems.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hussein%20Zahran&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Student%20%26%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://discord.com/users/.h0x._">
-    <img src="https://img.shields.io/badge/Discord-.h0x._-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=HusseinZahran-1&style=for-the-badge&color=0e75b6&label=Profile+Views" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A9A9FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Building+Practical+AI+%26+ML+Projects;Focused+on+Clean%2C+Purposeful+Code;Always+Learning.+Always+Improving." alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 👨‍💻 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-HusseinZahran--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HusseinZahran-1)
+[![Email](https://img.shields.io/badge/Email-husseinzahran05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husseinzahran05@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-@.h0x._-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/h0x.)
+
+</div>
+
+<br/>
+
+## 🧭 About Me
+
+I'm an Artificial Intelligence student at **Al-Zaytoonah University of Jordan**, focused on turning theoretical knowledge into real, working systems. My work centers on machine learning, intelligent automation, and writing software that is both efficient and maintainable.
+
+I approach learning with intention — every project I build is a deliberate step toward a career in AI, not just an exercise. I care about clean architecture, thoughtful problem-solving, and code that does exactly what it's meant to do, without excess.
+
+I'm currently open to **meaningful collaborations** and **well-structured projects** where I can contribute, learn, and grow alongside other builders.
+
+<br/>
 
 ```yaml
-name: Hussein Zahran
-field: Artificial Intelligence
-university: Al-Zaytoonah University of Jordan
-status: Student & Lifelong Learner
-currently: Deepening technical skills through hands-on projects
-learning: AI, Machine Learning & Modern Technologies
-open_to: Meaningful collaborations & well-structured projects
-interests:
-  - Artificial Intelligence & Machine Learning
-  - Problem Solving & Optimization
-  - Intelligent Systems & Automation
-  - Clean Architecture & Efficient Code
-philosophy: "Build with purpose. Keep it simple. Improve every day."
-contact: GitHub Messages or Discord → @.h0x._
-Email: husseinzahran05@gmail.com
+profile:
+  name: "Hussein Zahran"
+  field: "Artificial Intelligence"
+  university: "Al-Zaytoonah University of Jordan"
+  status: "Student & Lifelong Learner"
+  currently: "Deepening technical skills through hands-on projects"
+  learning: ["AI", "Machine Learning", "Modern Technologies"]
+  open_to: "Meaningful collaborations & well-structured projects"
+  interests:
+    - Artificial Intelligence
+    - Machine Learning
+    - Intelligent Systems
+    - Automation
+    - Problem Solving
+    - Software Engineering
+    - Clean Architecture
+    - Efficient Code
 ```
 
----
+<br/>
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,pycharm,vscode&theme=dark" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,js,html,css,git,github,vscode,pycharm,tensorflow,sklearn&theme=dark" />
 
-## 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HusseinZahran-1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinZahran-1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinZahran-1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</p>
+## 📊 GitHub Statistics
 
----
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HusseinZahran-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9A9FF&icon_color=A9A9FF&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinZahran-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9A9FF&text_color=c9d1d9" width="30%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinZahran-1&theme=tokyonight&hide_border=true&background=0d1117&ring=A9A9FF&fire=A9A9FF&currStreakLabel=A9A9FF" width="60%" />
+
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/HusseinZahran-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HusseinZahran-1&repo=car_price_prediction&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/HusseinZahran-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HusseinZahran-1&repo=Threat-Detection-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-</p>
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 💡 Philosophy
+### 🤖 AI Intelligent Assistant
+**A machine learning–driven assistant** built to understand context and automate repetitive tasks using NLP techniques.
 
-> 🎯 **Build with purpose** — Every line of code should have a reason
->
-> ⚡ **Keep things simple and efficient** — Complexity is the enemy of reliability
->
-> 🔨 **Learn by doing** — Theory without practice is incomplete
->
-> 📈 **Improve every day** — Progress over perfection
+`Python` `PyTorch` `NLP`
 
----
+[View Repository →](https://github.com/HusseinZahran-1)
+
+</td>
+<td width="50%">
+
+### 📊 ML Prediction Engine
+**A predictive modeling system** designed for data-driven decision-making, trained and evaluated on real-world datasets.
+
+`Python` `Scikit-Learn` `Pandas`
+
+[View Repository →](https://github.com/HusseinZahran-1)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ Automation Toolkit
+**A collection of automation scripts** built to streamline workflows and eliminate manual, repetitive processes.
+
+`Python` `Automation` `Scripting`
+
+[View Repository →](https://github.com/HusseinZahran-1)
+
+</td>
+<td width="50%">
+
+### 🧠 Neural Network From Scratch
+**A from-scratch implementation** of a neural network to deeply understand the mechanics behind modern deep learning.
+
+`Python` `TensorFlow` `Deep Learning`
+
+[View Repository →](https://github.com/HusseinZahran-1)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Focus Area | Description |
+|:---|:---|
+| 🧠 **Artificial Intelligence** | Studying core AI concepts and applying them practically |
+| 📈 **Machine Learning** | Building and training models on real datasets |
+| 🏗️ **Practical Projects** | Turning theory into functional, usable systems |
+| 🧩 **Software Engineering** | Strengthening architecture, structure, and code quality |
+
+</div>
+
+<br/>
+
+## 🗺️ Learning Roadmap
+
+- [x] Programming Fundamentals (Python, Java)
+- [x] Version Control with Git & GitHub
+- [x] Machine Learning Foundations
+- [ ] Deep Learning with PyTorch & TensorFlow
+- [ ] Natural Language Processing
+- [ ] Computer Vision
+- [ ] MLOps & Model Deployment
+- [ ] Advanced Software Architecture
+- [ ] Contributing to Open-Source AI Projects
+
+<br/>
+
+## 💭 Philosophy
+
+<div align="center">
+
+> **"Build with purpose. Keep it simple. Improve every day."**
+
+</div>
+
+<br/>
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HusseinZahran-1/HusseinZahran-1/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HusseinZahran-1/HusseinZahran-1/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+<br/>
 
 ---
 
-<!--
-  ========================================================
-  SNAKE ANIMATION SETUP — READ THEN DELETE THIS BLOCK
-  ========================================================
-  1. Inside your repo, create the path: .github/workflows/
-  2. Create a new file there called: snake.yml
-  3. Paste the content below into it and save:
+<div align="center">
 
-  name: Generate Snake Animation
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1200&color=8A8A8A&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile;Let's+build+something+meaningful+together." alt="Footer Typing SVG" />
+</a>
 
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-    push:
-      branches:
-        - main
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      timeout-minutes: 10
-      steps:
-        - name: Generate snake.svg
-          uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-        - name: Push snake.svg to output branch
-          uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  4. Go to Settings → Actions → General → enable Actions
-  5. Go to Actions tab → click "Generate Snake Animation" → Run workflow
-  6. Wait ~2 minutes → the snake will appear automatically!
-  7. Delete this entire comment block when done ✅
-  ========================================================
--->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8C;Feel+free+to+reach+out+anytime+%F0%9F%92%AC" />
-</p>
+</div>
