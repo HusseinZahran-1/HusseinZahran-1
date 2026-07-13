@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hussein%20Zahran&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Student%20%26%20Builder&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A9A9FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Building+Practical+AI+%26+ML+Projects;Focused+on+Clean%2C+Purposeful+Code;Always+Learning.+Always+Improving." alt="Typing SVG" />
-</a>
-
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-HusseinZahran--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HusseinZahran-1)
