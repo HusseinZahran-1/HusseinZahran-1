@@ -140,12 +140,11 @@ profile:
 - [x] Programming Fundamentals (Python, Java)
 - [x] Version Control with Git & GitHub
 - [x] Machine Learning Foundations
-- [ ] Deep Learning with PyTorch & TensorFlow
-- [ ] Natural Language Processing
+- [x] Deep Learning with PyTorch & TensorFlow
+- [x] Natural Language Processing
 - [ ] Computer Vision
-- [ ] MLOps & Model Deployment
-- [ ] Advanced Software Architecture
-- [ ] Contributing to Open-Source AI Projects
+- [x] MLOps & Model Deployment
+
 
 <br/>
 
