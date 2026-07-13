@@ -56,7 +56,6 @@ profile:
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinZahran-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9A9FF&text_color=c9d1d9" width="30%" />
 
 <br/>
 
