@@ -55,8 +55,7 @@ profile:
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HusseinZahran-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9A9FF&icon_color=A9A9FF&text_color=c9d1d9&count_private=true" width="49%" />
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinZahran-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9A9FF&text_color=c9d1d9" width="30%" />
 
 <br/>
