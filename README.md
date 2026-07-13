@@ -65,59 +65,6 @@ profile:
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Intelligent Assistant
-**A machine learning–driven assistant** built to understand context and automate repetitive tasks using NLP techniques.
-
-`Python` `PyTorch` `NLP`
-
-[View Repository →](https://github.com/HusseinZahran-1)
-
-</td>
-<td width="50%">
-
-### 📊 ML Prediction Engine
-**A predictive modeling system** designed for data-driven decision-making, trained and evaluated on real-world datasets.
-
-`Python` `Scikit-Learn` `Pandas`
-
-[View Repository →](https://github.com/HusseinZahran-1)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚙️ Automation Toolkit
-**A collection of automation scripts** built to streamline workflows and eliminate manual, repetitive processes.
-
-`Python` `Automation` `Scripting`
-
-[View Repository →](https://github.com/HusseinZahran-1)
-
-</td>
-<td width="50%">
-
-### 🧠 Neural Network From Scratch
-**A from-scratch implementation** of a neural network to deeply understand the mechanics behind modern deep learning.
-
-`Python` `TensorFlow` `Deep Learning`
-
-[View Repository →](https://github.com/HusseinZahran-1)
-
-</td>
-</tr>
-</table>
-
-</div>
-
 <br/>
 
 ## 🎯 Current Focus
