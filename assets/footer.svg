@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="100%" role="img" aria-label="Build with purpose. Keep learning. Make it useful."><defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#0c4a6e"/><stop offset=".5" stop-color="#1e1b4b"/><stop offset="1" stop-color="#4c1d95"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="150" rx="24"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="1200" height="150" fill="url(#bg)"/>
+<path d="M0 100 Q200 60 400 100 T800 100 T1200 100 V150 H0Z" fill="#fff" fill-opacity=".05"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 100 Q200 60 400 100 T800 100 T1200 100 V150 H0Z;M0 100 Q200 140 400 100 T800 100 T1200 100 V150 H0Z;M0 100 Q200 60 400 100 T800 100 T1200 100 V150 H0Z"/></path>
+<path d="M0 118 Q300 85 600 118 T1200 118 V150 H0Z" fill="#fff" fill-opacity=".05"><animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0 118 Q300 85 600 118 T1200 118 V150 H0Z;M0 118 Q300 145 600 118 T1200 118 V150 H0Z;M0 118 Q300 85 600 118 T1200 118 V150 H0Z"/></path>
+<text x="600" y="62" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#fff" letter-spacing="-.5">Build with purpose  ·  Keep learning  ·  Make it useful</text>
+<text x="600" y="92" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#bae6fd" letter-spacing="3">THANKS FOR STOPPING BY</text></g></svg>
