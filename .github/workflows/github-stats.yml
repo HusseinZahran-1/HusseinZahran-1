@@ -1,29 +1,26 @@
-name: Update GitHub Stats
+name: Update GitHub Profile Cards
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: '15 3 * * *'
 
 permissions:
   contents: write
 
+concurrency:
+  group: github-profile-cards
+  cancel-in-progress: false
+
 jobs:
-  generate-stats:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub statistics
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: HusseinZahran-1
-          BRANCH_NAME: main
-          UTC_OFFSET: 3
           THEME: github_dark
-          AUTO_PUSH: true
-
+          UTC_OFFSET: 3
