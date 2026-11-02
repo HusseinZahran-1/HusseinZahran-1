@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 84" width="380" role="img" aria-label="LinkedIn"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0a66c2"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
-<rect width="380" height="84" rx="22" fill="url(#g)"/><rect width="380" height="84" rx="22" fill="#fff" fill-opacity="0"><animate attributeName="fill-opacity" values="0;.12;0" dur="3.5s" repeatCount="indefinite"/></rect>
-<text x="30" y="37" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace" font-size="12" fill="#fff" fill-opacity=".8" letter-spacing="2">CONNECT ON</text>
-<text x="30" y="62" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="800" fill="#fff">LinkedIn</text>
-<text x="338" y="58" text-anchor="end" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#fff">→</text></svg>
