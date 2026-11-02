@@ -1,235 +1,87 @@
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:172554,100:0EA5E9&text=Hussein%20Zahran&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20%7C%20Python%20Developer&descAlignY=60&animation=fadeIn" width="100%" alt="Hussein Zahran banner" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+Practical+AI+Systems;Machine+Learning+%7C+Python+%7C+FastAPI;From+Data+to+Intelligent+Applications;Learn.+Build.+Improve." alt="Animated introduction" /></a>
 
-<div align="center">
+<a href="https://github.com/HusseinZahran-1?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+<a href="https://www.linkedin.com/in/hussein-zahran-911481358/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>👨‍💻 About Me
+I'm Hussein Zahran, an Artificial Intelligence student at Al-Zaytoonah University of Jordan and a Python developer who enjoys turning complex ideas into useful software.
 
-# Hussein Zahran
+I work on projects across machine learning, explainable AI, predictive modeling, desktop applications, APIs, and data analytics. I care about clean architecture, thoughtful interfaces, and solutions that make sense beyond the notebook.
+- 🧠 Interests: Applied AI, machine learning, explainability, and intelligent systems
+- 🐍 Development: Python applications, backend APIs, and data-driven tools
+- 📊 Analytics: Turning raw data into useful visual insights
+- 🎯 Focus: Building end-to-end projects with maintainable, well-documented code
+My philosophy: Build with purpose. Keep it simple. Improve every day.
 
-### Artificial Intelligence Student | Python Developer
-
-**Building practical AI systems, intelligent applications, and data-driven solutions.**
-
-*Turning complex ideas into simple, useful, and thoughtfully engineered software.*
-
-<br>
-
-![AI](https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logo=googlegemini&logoColor=58A6FF)
-![Python](https://img.shields.io/badge/Python_Developer-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-zahran-911481358/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HusseinZahran-1)
-[![Projects](https://img.shields.io/badge/Explore-Projects-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/HusseinZahran-1?tab=repositories)
-
-</div>
-
----
-
-## About Me
-
-I'm **Hussein Zahran**, an Artificial Intelligence student at **Al-Zaytoonah University of Jordan**, passionate about developing intelligent software that solves practical problems.
-
-My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Software Engineering, and Data Analytics**.
-
-I enjoy taking projects from concept to implementation — exploring data, developing predictive models, designing application architectures, and building interfaces that make technology accessible.
-
-- 🎓 Studying **Artificial Intelligence**
-- 🧠 Interested in **Machine Learning, Explainable AI, and Predictive Modeling**
-- 🐍 Developing applications primarily with **Python**
-- 📊 Exploring **Data Analytics and Visualization**
-- 🛠️ Focused on **Clean Code, Maintainability, and Practical Solutions**
-
-> **My approach:** Understand the problem. Design the solution. Build with purpose. Improve continuously.
-
----
-
-## Featured Projects
-
+🧰 Tech Stack
+<div align="center">Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Python, Java, JavaScript, HTML and CSS" />Frameworks & Application Development
+<img src="https://skillicons.dev/icons?i=fastapi,flask,qt,sqlite&theme=dark" alt="FastAPI, Flask, Qt and SQLite" />AI, Data & Analytics
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&theme=dark" alt="Machine learning ecosystem" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman" /></div><sub>Some tools shown above represent technologies I'm exploring or expanding my experience with, not necessarily technologies used in every featured project.</sub>
+🚀 Featured Projects
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top">🏥 MedAI — Intelligent Healthcare Assistant
+An educational desktop decision-support application with symptom-based predictions, explainable results, risk guidance, and bilingual PDF reporting.
 
-### 🏥 MedAI
+Highlights: Explainable predictions · Desktop UI · PDF reports
 
-**Intelligent Healthcare Assistant**
+Stack: Python PyQt6 scikit-learn SQLite
 
-An educational AI-powered desktop application for symptom-based predictions and explainable decision support.
-
-**Highlights**
-- Machine learning predictions
-- Explainable results
-- Risk guidance
-- Bilingual PDF reporting
-- Desktop interface
-
-**Tech Stack**
-
-`Python` `PyQt6` `scikit-learn` `SQLite`
-
-[**View Repository →**](https://github.com/HusseinZahran-1/MedAI-Intelligent-Healthcare-Assistant)
-
+Explore project →
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top">🚗 Car Price Prediction
+A full-stack application that estimates used-car prices using a Random Forest model, a Flask API, and an interactive web interface.
 
-### 🚗 Car Price Prediction
+Highlights: Predictive modeling · REST API · Web UI
 
-**Machine Learning Web Application**
+Stack: Python Flask scikit-learn HTML/CSS/JS
 
-A full-stack application that estimates used-car prices using a Random Forest model.
-
-**Highlights**
-- Predictive machine learning
-- Flask REST API
-- Interactive web interface
-- Data preprocessing
-- Model integration
-
-**Tech Stack**
-
-`Python` `Flask` `scikit-learn` `JavaScript`
-
-[**View Repository →**](https://github.com/HusseinZahran-1/car_price_prediction)
-
+Explore project →
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top">📊 Superstore Sales Dashboard
+An interactive Power BI dashboard for understanding sales performance, profit trends, customer behavior, and shipping efficiency.
 
-### 📊 Superstore Sales Dashboard
+Highlights: Business insights · Interactive reports · Data storytelling
 
-**Business Intelligence & Analytics**
+Stack: Power BI Analytics Visualization
 
-An interactive Power BI dashboard designed to explore sales performance and business insights.
-
-**Highlights**
-- Sales and profit analysis
-- Customer behavior insights
-- Shipping performance
-- Interactive visualizations
-- Business intelligence reporting
-
-**Tech Stack**
-
-`Power BI` `Data Analytics` `Visualization`
-
-[**View Repository →**](https://github.com/HusseinZahran-1/Superstore_Sales_Dashboard)
-
+Explore project →
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top">🗂️ More Projects
+Explore additional work in data analytics, machine learning, and software development, including my Movies & TV Shows analytics dashboard.
 
-### 🎬 More Projects
+Focus: Applied AI · Data tools · Interactive applications
 
-**Machine Learning, Analytics & Software Development**
-
-Explore my other repositories, including work in entertainment analytics, predictive modeling, and application development.
-
-**Focus Areas**
-- Artificial Intelligence
-- Data Analytics
-- Software Development
-- Interactive Dashboards
-- Practical Applications
-
-[**Explore All Repositories →**](https://github.com/HusseinZahran-1?tab=repositories)
-
+Browse repositories →
 </td>
 </tr>
-</table>
+</table>📈 GitHub Activity
+<div align="center"><!-- Generated and committed by .github/workflows/github-stats.yml -->
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution overview" width="98%" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" width="49%" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repository languages" width="49%" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Languages by commits" width="49%" />
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Contribution activity by time" width="49%" /><sub>Cards are generated by GitHub Actions and stored in this repository. They will appear after the first successful workflow run.</sub>
+</div>🎯 What I'm Working Toward
+- Stronger AI foundations: Deepening my understanding of machine learning and intelligent systems.
+- Better backend engineering: Designing clean APIs and learning more about FastAPI and scalable application architecture.
+- End-to-end delivery: Taking projects from data exploration to usable applications.
+- Engineering quality: Improving testing, documentation, and maintainability.
+🤝 Let's Connect
+<div align="center">Interested in AI, practical software, or data-driven products?
 
----
+I'm always open to exchanging ideas and learning from other developers.
 
-## Technical Skills
+<a href="https://www.linkedin.com/in/hussein-zahran-911481358/"><img src="https://img.shields.io/badge/LinkedIn-Hussein_Zahran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/HusseinZahran-1"><img src="https://img.shields.io/badge/GitHub-HusseinZahran--1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
-### AI, Machine Learning & Data Science
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-`Predictive Modeling` · `Model Evaluation` · `Data Preprocessing` · `Exploratory Data Analysis`
-
-### Frameworks & Application Development
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Qt](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-`REST APIs` · `Desktop Applications` · `Web Applications`
-
-### Analytics & Development Tools
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-`Data Visualization` · `Debugging` · `Documentation` · `Software Design`
-
----
-
-## Current Focus
-
-I'm continuously expanding my knowledge and building stronger foundations in artificial intelligence and software engineering.
-
-| Area | Focus |
-|:---|:---|
-| 🧠 Artificial Intelligence | Intelligent systems and applied machine learning |
-| 📈 Machine Learning | Model development, evaluation, and interpretability |
-| 🏗️ Software Engineering | Maintainable architecture, testing, and clean code |
-| 🚀 Project Development | End-to-end applications and practical deployment |
-| 📊 Data Analytics | Transforming raw data into meaningful insights |
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-**Explore my open-source projects, contributions, and development activity.**
-
-<br>
-
-[![GitHub Profile](https://img.shields.io/badge/View_GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HusseinZahran-1)
-
-[![Repositories](https://img.shields.io/badge/Explore-Repositories-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HusseinZahran-1?tab=repositories)
-
-[![Contributions](https://img.shields.io/badge/View-Contributions-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HusseinZahran-1)
-
-<br>
-
-<sub>GitHub contributions and repository activity are available directly on my profile.</sub>
-
-</div>
-
----
-
-## Let's Connect
-
-I'm interested in learning, collaborating, and exploring ideas in **Artificial Intelligence, Machine Learning, and Software Development**.
-
-Feel free to explore my work or connect with me.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussein_Zahran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-zahran-911481358/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-HusseinZahran--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HusseinZahran-1)
-
-</div>
-
----
-
-<div align="center">
-
-### Build with purpose. Keep it simple. Improve every day.
-
-<sub>Designed with a focus on clarity, practicality, and continuous learning.</sub>
-
-</div>
+Build with purpose · Keep learning · Make it useful
+<img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0D1117,50:172554,100:0EA5E9" width="100%" alt="Footer wave" /></div>
