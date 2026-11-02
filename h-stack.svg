@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="100%" role="img" aria-label="Tech stack">
-<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient>
-<linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
-<text x="4" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="url(#t)" letter-spacing="3">02 / TOOLKIT</text>
-<text x="2" y="78" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="38" font-weight="800" fill="#e2e8f0" letter-spacing="-1">Tech stack</text>
-<rect x="0" y="86" width="1200" height="2" fill="url(#l)" opacity=".7"/>
-<circle r="4" cy="87" fill="#fff"><animate attributeName="cx" values="0;1200" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/></circle>
-</svg>
