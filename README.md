@@ -1,121 +1,70 @@
-<h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/monogram-dark.svg">
-    <img src="./assets/portfolio/monogram-light.svg" width="40" height="40" alt="">
-  </picture>
-  Hussein Zahran
-</h1>
+<div align="center">
 
-**Python developer · Artificial Intelligence student**
+<img src="./assets/hero.svg" alt="Hussein Zahran — AI student and Python developer" width="100%" />
 
-## Software that makes<br>complex ideas useful.
+</div>
 
-I'm an Artificial Intelligence student at **Al-Zaytoonah University of Jordan**, building practical Python software. My interests span software engineering, explainable machine learning, predictive modeling, and data analytics.
+<br>
 
-[GitHub](https://github.com/HusseinZahran-1) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/hussein-zahran-911481358/)
+<img src="./assets/h-about.svg" alt="About me" width="100%" />
 
-## Selected work
+I'm **Hussein Zahran**, an Artificial Intelligence student at **Al-Zaytoonah University of Jordan** and a Python developer who turns complex ideas into useful software. My work spans machine learning, explainable AI, predictive modeling, desktop applications, APIs and data analytics, and I care about clean architecture and solutions that hold up beyond the notebook.
 
-<p>
-<a href="https://github.com/HusseinZahran-1/MedAI-Intelligent-Healthcare-Assistant">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/portfolio/medai-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/portfolio/medai-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/medai-desktop-dark.svg">
-    <img src="./assets/portfolio/medai-desktop-light.svg" alt="MedAI: educational Arabic/English desktop healthcare assistant with explainable predictions and PDF reports. Python, PyQt6, scikit-learn, SQLite. Open the repository.">
-  </picture>
-</a>
-</p>
+<img src="./assets/t-about.svg" alt="Interests: applied AI, Python development, data analytics, end-to-end delivery" width="100%" />
 
-<p>
-  <a href="https://github.com/HusseinZahran-1/car_price_prediction">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/portfolio/car-price-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/portfolio/car-price-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/car-price-desktop-dark.svg">
-    <img src="./assets/portfolio/car-price-desktop-light.svg" alt="Car Price Prediction: Used-car pricing with Random Forest, a Flask API, and a web interface. Technologies: Flask · scikit-learn · JavaScript. Open repository.">
-  </picture>
-  </a>
-  <a href="https://github.com/HusseinZahran-1/Superstore_Sales_Dashboard">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/portfolio/superstore-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/portfolio/superstore-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/superstore-desktop-dark.svg">
-    <img src="./assets/portfolio/superstore-desktop-light.svg" alt="Superstore Dashboard: Sales, profit, customer segments, and shipping efficiency. Technologies: Power BI · DAX. Open repository.">
-  </picture>
-  </a>
-  <a href="https://github.com/HusseinZahran-1/Movies-TV-Shows-Analytics-Dashboard">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/portfolio/movies-tv-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/portfolio/movies-tv-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/movies-tv-desktop-dark.svg">
-    <img src="./assets/portfolio/movies-tv-desktop-light.svg" alt="Movies &amp; TV Analytics: Netflix content, geography, ratings, and trends over time. Technologies: Power BI · DAX. Open repository.">
-  </picture>
-  </a>
-</p>
+> **Build with purpose. Keep it simple. Improve every day.**
 
-[Browse all repositories →](https://github.com/HusseinZahran-1?tab=repositories)
+<br>
 
-## Working toolkit
+<img src="./assets/h-stack.svg" alt="Tech stack" width="100%" />
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/icon-languages-dark.svg">
-    <img src="./assets/portfolio/icon-languages-light.svg" width="22" height="22" alt="">
-  </picture>
-  <strong>Languages &amp; web</strong><br>
-  Python · Java · JavaScript · HTML · CSS
-</p>
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/icon-applications-dark.svg">
-    <img src="./assets/portfolio/icon-applications-light.svg" width="22" height="22" alt="">
-  </picture>
-  <strong>Backend &amp; desktop</strong><br>
-  FastAPI · Flask · PyQt6 · SQLite
-</p>
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/icon-machine-learning-dark.svg">
-    <img src="./assets/portfolio/icon-machine-learning-light.svg" width="22" height="22" alt="">
-  </picture>
-  <strong>AI &amp; machine learning</strong><br>
-  scikit-learn · PyTorch · TensorFlow · OpenCV
-</p>
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/icon-analytics-dark.svg">
-    <img src="./assets/portfolio/icon-analytics-light.svg" width="22" height="22" alt="">
-  </picture>
-  <strong>Data &amp; analytics</strong><br>
-  Pandas · NumPy · Power BI · DAX
-</p>
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/icon-tools-dark.svg">
-    <img src="./assets/portfolio/icon-tools-light.svg" width="22" height="22" alt="">
-  </picture>
-  <strong>Developer tools</strong><br>
-  Git · GitHub · VS Code · Postman
-</p>
+<img src="./assets/stack.svg" alt="Python, Java, JavaScript, HTML, CSS, FastAPI, Flask, PyQt6, SQLite, scikit-learn, PyTorch, TensorFlow, OpenCV, Pandas, NumPy, Power BI, Git, GitHub, VS Code, Postman" width="100%" />
 
-This toolkit includes technologies I use and actively explore. Each project uses a different subset.
+<sub>Some technologies shown are ones I'm actively exploring, not necessarily used in every featured project.</sub>
 
-## On GitHub
+<br>
 
-<p>
-<a href="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/portfolio/activity-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/portfolio/activity-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio/activity-desktop-dark.svg">
-    <img src="./assets/portfolio/activity-desktop-light.svg" alt="Saved repository-language snapshot: Python, HTML, Jupyter Notebook, TypeScript. Activity, not proficiency; may lag behind recent changes.">
-  </picture>
-</a>
-</p>
+<img src="./assets/h-projects.svg" alt="Featured projects" width="100%" />
 
-[Current contributions](https://github.com/HusseinZahran-1) &nbsp; / &nbsp; [Repository language snapshot](./profile-summary-card-output/github_dark/1-repos-per-language.svg) &nbsp; / &nbsp; [Commit language snapshot](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/HusseinZahran-1?tab=repositories&q=medai"><img src="./assets/p-medai.svg" alt="MedAI — healthcare decision-support desktop app" width="100%" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/HusseinZahran-1?tab=repositories&q=car"><img src="./assets/p-car.svg" alt="Car Price Prediction — Random Forest, Flask API and web UI" width="100%" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/HusseinZahran-1?tab=repositories&q=superstore"><img src="./assets/p-superstore.svg" alt="Superstore Dashboard — Power BI analytics" width="100%" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/HusseinZahran-1?tab=repositories"><img src="./assets/p-more.svg" alt="More projects — browse all repositories" width="100%" /></a>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-Interested in practical AI, Python applications, or data-driven products? [Connect on LinkedIn](https://www.linkedin.com/in/hussein-zahran-911481358/).
+<img src="./assets/h-goals.svg" alt="What I'm working toward" width="100%" />
+
+<img src="./assets/t-goals.svg" alt="Goals: AI foundations, backend engineering, full delivery, engineering quality" width="100%" />
+
+<br>
+
+<img src="./assets/h-connect.svg" alt="Let's connect" width="100%" />
+
+Interested in AI, practical software or data-driven products? I'm always open to exchanging ideas and learning from other developers.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hussein-zahran-911481358/"><img src="./assets/b-linkedin.svg" alt="Connect on LinkedIn" width="380" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/HusseinZahran-1"><img src="./assets/b-github.svg" alt="See my code on GitHub" width="380" /></a>
+
+<br>
+
+<img src="./assets/footer.svg" alt="Build with purpose · Keep learning · Make it useful" width="100%" />
+
+</div>
