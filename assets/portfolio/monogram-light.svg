@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" role="img" aria-labelledby="title desc">
+  <title id="title">HZ</title>
+  <desc id="desc">Hussein Zahran monogram, with original geometric H and Z letterforms.</desc>
+  <rect x=".5" y=".5" width="43" height="43" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <path d="M10 13v18m10-18v18M10 22h10M26 13h9l-9 18h9" fill="none" stroke="#2563EB" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 36h7" stroke="#2563EB" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
