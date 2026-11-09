@@ -1,70 +1,78 @@
-<div align="center">
+# Hi, I'm Hussein Zahran
 
-<img src="./assets/hero.svg" alt="Hussein Zahran — AI student and Python developer" width="100%" />
+**Python Developer · Artificial Intelligence Student**
 
-</div>
+I turn complex ideas into useful software, from machine learning models to desktop applications and APIs. I'm interested in bringing practical AI and thoughtful software engineering together.
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-<img src="./assets/h-about.svg" alt="About me" width="100%" />
+## About Me
 
-I'm **Hussein Zahran**, an Artificial Intelligence student at **Al-Zaytoonah University of Jordan** and a Python developer who turns complex ideas into useful software. My work spans machine learning, explainable AI, predictive modeling, desktop applications, APIs and data analytics, and I care about clean architecture and solutions that hold up beyond the notebook.
+- Studying **Artificial Intelligence at Al-Zaytoonah University of Jordan**.
+- Interested in applied AI, explainable machine learning, predictive modeling, and data analytics.
+- Building desktop applications, backend APIs, and tools that turn data into useful insights.
+- Developing my foundations in AI and backend engineering, with a focus on clean architecture, testing, documentation, and maintainability.
 
-<img src="./assets/t-about.svg" alt="Interests: applied AI, Python development, data analytics, end-to-end delivery" width="100%" />
+> Build with purpose. Keep it simple. Improve every day.
 
-> **Build with purpose. Keep it simple. Improve every day.**
+## Tech Stack
 
-<br>
+- **Languages & web:** Python, Java, JavaScript, HTML, CSS
+- **Backend & desktop:** FastAPI, Flask, PyQt6, SQLite
+- **AI & machine learning:** scikit-learn, PyTorch, TensorFlow, OpenCV
+- **Data & analytics:** Pandas, NumPy, Power BI, DAX
+- **Development tools:** Git, GitHub, VS Code, Postman
 
-<img src="./assets/h-stack.svg" alt="Tech stack" width="100%" />
+Some of these technologies are ones I'm actively exploring; they aren't all used in every featured project.
 
-<img src="./assets/stack.svg" alt="Python, Java, JavaScript, HTML, CSS, FastAPI, Flask, PyQt6, SQLite, scikit-learn, PyTorch, TensorFlow, OpenCV, Pandas, NumPy, Power BI, Git, GitHub, VS Code, Postman" width="100%" />
+## Featured Projects
 
-<sub>Some technologies shown are ones I'm actively exploring, not necessarily used in every featured project.</sub>
+### MedAI
 
-<br>
+An educational healthcare decision-support desktop application with symptom-based predictions, explainable results, risk guidance, an Arabic/English interface, and PDF reports.
 
-<img src="./assets/h-projects.svg" alt="Featured projects" width="100%" />
+**Tech:** Python, PyQt6, scikit-learn, SQLite
 
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/HusseinZahran-1?tab=repositories&q=medai"><img src="./assets/p-medai.svg" alt="MedAI — healthcare decision-support desktop app" width="100%" /></a>
-</td>
-<td width="50%">
-<a href="https://github.com/HusseinZahran-1?tab=repositories&q=car"><img src="./assets/p-car.svg" alt="Car Price Prediction — Random Forest, Flask API and web UI" width="100%" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/HusseinZahran-1?tab=repositories&q=superstore"><img src="./assets/p-superstore.svg" alt="Superstore Dashboard — Power BI analytics" width="100%" /></a>
-</td>
-<td width="50%">
-<a href="https://github.com/HusseinZahran-1?tab=repositories"><img src="./assets/p-more.svg" alt="More projects — browse all repositories" width="100%" /></a>
-</td>
-</tr>
-</table>
+[View repository](https://github.com/HusseinZahran-1/MedAI-Intelligent-Healthcare-Assistant)
 
-<br>
+### Car Price Prediction
 
-<img src="./assets/h-goals.svg" alt="What I'm working toward" width="100%" />
+A full-stack application that estimates used-car prices using a Random Forest model, a Flask API, and an interactive web interface.
 
-<img src="./assets/t-goals.svg" alt="Goals: AI foundations, backend engineering, full delivery, engineering quality" width="100%" />
+**Tech:** Python, Flask, scikit-learn, JavaScript
 
-<br>
+[View repository](https://github.com/HusseinZahran-1/car_price_prediction)
 
-<img src="./assets/h-connect.svg" alt="Let's connect" width="100%" />
+### Superstore Dashboard
 
-Interested in AI, practical software or data-driven products? I'm always open to exchanging ideas and learning from other developers.
+An interactive Power BI dashboard exploring sales performance, profit trends, customer behavior, and shipping efficiency.
 
-<div align="center">
+**Tech:** Power BI, DAX
 
-<a href="https://www.linkedin.com/in/hussein-zahran-911481358/"><img src="./assets/b-linkedin.svg" alt="Connect on LinkedIn" width="380" /></a>
-&nbsp;&nbsp;
-<a href="https://github.com/HusseinZahran-1"><img src="./assets/b-github.svg" alt="See my code on GitHub" width="380" /></a>
+[View repository](https://github.com/HusseinZahran-1/Superstore_Sales_Dashboard)
 
-<br>
+More data visualization: [Movies & TV Shows Analytics Dashboard](https://github.com/HusseinZahran-1/Movies-TV-Shows-Analytics-Dashboard).
 
-<img src="./assets/footer.svg" alt="Build with purpose · Keep learning · Make it useful" width="100%" />
+Browse [all my repositories](https://github.com/HusseinZahran-1?tab=repositories).
 
-</div>
+## GitHub Stats
+
+A snapshot of languages across my repositories and commits. These charts reflect activity, may lag behind recent changes, and do not measure proficiency.
+
+![Top languages by repository](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+
+![Top languages by commit](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+[View my GitHub profile and contributions](https://github.com/HusseinZahran-1)
+
+## Connect With Me
+
+Interested in AI, practical software, or data-driven products? I'm open to exchanging ideas and learning from other developers.
+
+- [LinkedIn](https://www.linkedin.com/in/hussein-zahran-911481358/)
+- [GitHub](https://github.com/HusseinZahran-1)
+
+---
+
+Thanks for visiting. **Build with purpose. Keep learning. Make it useful.**
