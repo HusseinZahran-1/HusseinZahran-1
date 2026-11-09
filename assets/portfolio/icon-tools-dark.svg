@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="title desc">
+  <title id="title">Developer tools</title>
+  <desc id="desc">Original decorative category icon. The label is present as native README text.</desc>
+  <g fill="none" stroke="#60A5FA" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m8 6 3 3-3 3M14 15h4"/>
+  <rect x="3" y="3" width="18" height="18" rx="3"/>
+  </g>
+</svg>

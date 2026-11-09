@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-labelledby="title desc">
+  <title id="title">Backend &amp; desktop</title>
+  <desc id="desc">Original decorative category icon. The label is present as native README text.</desc>
+  <g fill="none" stroke="#60A5FA" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="3" y="4" width="18" height="16" rx="3"/>
+  <path d="M3 9h18M7 6.5h.1M10 6.5h.1"/>
+  </g>
+</svg>

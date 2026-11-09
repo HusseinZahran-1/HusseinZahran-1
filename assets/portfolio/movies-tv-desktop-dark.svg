@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="398" height="230" viewBox="0 0 398 230" role="img" aria-labelledby="title desc">
+  <title id="title">Movies &amp; TV Analytics</title>
+  <desc id="desc">Netflix content, geography, ratings, and trends over time. Technologies: Power BI · DAX. Open the repository.</desc>
+  <rect x=".5" y=".5" width="397" height="217" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <rect x="24" y="21" width="25" height="14" rx="1" fill="none" stroke="#60A5FA"/>
+  <path d="M29 21v14" stroke="#60A5FA"/>
+  <path d="M37 21v14" stroke="#60A5FA"/>
+  <path d="M45 21v14" stroke="#60A5FA"/>
+  <text x="61" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#60A5FA">CONTENT / GEOGRAPHY</text>
+  <text x="24" y="79" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#E6EDF3">Movies &amp; TV Analytics</text>
+  <text x="24" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#9BA5B1">Netflix content, geography, ratings,</text>
+  <text x="24" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#9BA5B1">and trends over time.</text>
+  <text x="24" y="187" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#60A5FA">Power BI · DAX</text>
+  <path d="M353 182h14m-5-5 5 5-5 5" fill="none" stroke="#60A5FA" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

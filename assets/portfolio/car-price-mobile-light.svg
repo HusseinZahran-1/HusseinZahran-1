@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="192" viewBox="0 0 350 192" role="img" aria-labelledby="title desc">
+  <title id="title">Car Price Prediction</title>
+  <desc id="desc">Used-car pricing with Random Forest, a Flask API, and a web interface. Technologies: Flask · scikit-learn · JavaScript. Open the repository.</desc>
+  <rect x=".5" y=".5" width="349" height="179" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <text x="20" y="41" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#24292F">Car Price Prediction</text>
+  <text x="20" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="400" fill="#57606A">Used-car pricing with Random Forest,</text>
+  <text x="20" y="103" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="400" fill="#57606A">a Flask API, and a web interface.</text>
+  <text x="20" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#2563EB">Flask · scikit-learn · JavaScript</text>
+  <path d="M310 145h14m-5-5 5 5-5 5" fill="none" stroke="#2563EB" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

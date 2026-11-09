@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="398" height="230" viewBox="0 0 398 230" role="img" aria-labelledby="title desc">
+  <title id="title">Superstore Dashboard</title>
+  <desc id="desc">Sales, profit, customer segments, and shipping efficiency. Technologies: Power BI · DAX. Open the repository.</desc>
+  <rect x=".5" y=".5" width="397" height="217" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <rect x="24" y="21" width="5" height="13" rx="1" fill="none" stroke="#60A5FA"/>
+  <rect x="32" y="21" width="5" height="13" rx="1" fill="none" stroke="#60A5FA"/>
+  <rect x="40" y="21" width="5" height="13" rx="1" fill="none" stroke="#60A5FA"/>
+  <text x="61" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#60A5FA">SALES / PROFIT</text>
+  <text x="24" y="79" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#E6EDF3">Superstore Dashboard</text>
+  <text x="24" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#9BA5B1">Sales, profit, customer segments,</text>
+  <text x="24" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#9BA5B1">and shipping efficiency.</text>
+  <text x="24" y="187" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#60A5FA">Power BI · DAX</text>
+  <path d="M353 182h14m-5-5 5 5-5 5" fill="none" stroke="#60A5FA" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
